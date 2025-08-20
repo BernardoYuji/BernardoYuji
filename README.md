@@ -28,7 +28,7 @@
 
 -🔭 I’m currently studying Software Enginner at FIAP in São Paulo, SP
 
-- 🌱Currently learning Python, C++, JavaScript, HTML and CSS
+- 🌱Currently learning Python, C, C++, JavaScript, HTML and CSS
   
 - ⚡ Fun fact: I like to play video games and watch movies/series/anime in my free time. Obsessed with cars and sport bikes. My hobbie is practice sport, specially ride bike, run and Brazilian Jiu-Jitsu.
 
